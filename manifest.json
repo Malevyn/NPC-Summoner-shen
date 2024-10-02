@@ -1,0 +1,17 @@
+{
+	"files": {
+		"C_REQUEST_CONTRACT.50.def": "25e5c8f60212faaf38ad041b765cdb84a5abebc1517f0da6b97d37edfb9a5acd",
+		"config.json": "b327c4f4290150fba7baa20e0fd0a08fe9f225d68e4ac0cd39cb5eb0986d4f53",
+		"index.js": "5cf1a947e7dc2277e77b629a07464f89675725b6014674a1a9de719eeeacf31c",
+		"module.config.json": "707dc995f35aa31a0ea65c1e8270bcdec8cd75fce6944e6737a145bf4ae7f974",
+		"module.json": "85cb383cce3b85bf9aff6050a30fe54c9b912cecaff7bcb8e980df81b30436dc",
+		"README.md": "fe29cab58577eeb4b004fea45166197f336d6819a97cba8e68df59559ff139c7"
+	},
+	"defs": {
+		"C_REQUEST_CONTRACT": 50,
+		"S_ANNOUNCE_UPDATE_NOTIFICATION": 1,
+		"S_LOAD_TOPO": 3,
+		"S_NPC_MENU_SELECT": 1,
+		"S_SPAWN_NPC": 12
+	}
+}

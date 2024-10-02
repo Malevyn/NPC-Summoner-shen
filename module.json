@@ -1,0 +1,16 @@
+{
+    "author": "Salchy / Ace >",
+    "description": "Summon any NPC",
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "donationUrl": "",
+    "name": "NPC SUMMONER",
+    "options": {
+        "niceName":"NPC Summoner",
+        "guiName": "NPC Summoner",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/Malevyn/NPC-Summoner-shen/master/"],
+    "supportUrl": "https://github.com/Malevyn/NPC-Summoner-shen/issues",
+    "version": "1.0"
+}
